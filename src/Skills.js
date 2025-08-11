@@ -24,11 +24,10 @@ export default function Skills({ darkMode }) {
       <ul style={{ color: secondaryTextColor }}>
         <li>JavaScript / React.js</li>
         <li>HTML / CSS</li>
-        <li>Node.js / Express</li>
         <li>Python</li>
         <li>Git / GitHub</li>
         <li>Problem Solving</li>
-        <li>Responsive Web Design</li>
+
       </ul>
     </div>
   );
